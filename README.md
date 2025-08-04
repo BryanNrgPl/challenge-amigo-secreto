@@ -19,7 +19,8 @@
   <li>Limpieza automática del input después de cada entrada</li>
 </ul>
 
-<h5><code>Contacto:</code> @gmail.com</h5>
+<h5><code>Contacto:</code><a href="https://github.com/BryanNrgPl">https://github.com/BryanNrgPl</a></h5>
+
 
 
 
