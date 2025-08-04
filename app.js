@@ -20,7 +20,6 @@ function agregarAmigo() {
         listaDeAmigos.push(amigo);  // de otra manera agrega a la lista
         actualizarLista();
         vaciarCaja();
-        console.log(listaDeAmigos);
     }
 }
 
@@ -35,4 +34,13 @@ function actualizarLista() {
     }
 
     listaHTML.innerHTML = amigosLi;
+}
+
+function sortearAmigo() {
+    if(listaDeAmigos.length != 0){
+        let random = Math.floor(Math.random() * listaDeAmigos.length);
+        document.getElementById('resultado').innerHTML = "<li>" + listaDeAmigos[random] + "</li>";
+    }else{
+        alert("Agrega amigos para empezar");
+    } 
 }
