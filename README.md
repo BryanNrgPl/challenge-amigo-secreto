@@ -19,7 +19,16 @@
   <li>Limpieza automática del input después de cada entrada</li>
 </ul>
 
+<h2>Uso de:</h2>
+
+<ul>
+  <li>Html (por parte de Alura Latam)</li>
+  <li>CSS (por parte de Alura Latam)</li>
+  <li>JavaScript</li>
+</ul>
+
 <h5><code>Contacto:</code><a href="https://github.com/BryanNrgPl">https://github.com/BryanNrgPl</a></h5>
+
 
 
 
