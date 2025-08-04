@@ -2,9 +2,10 @@
 
 <h2>Funciones</h2>
 
---obtenerInput
+'''obtenerInput'''
 -vaciarCaja
 -agregarAmigo
 -actualizarLista
 -sortearAmigo
+
 
