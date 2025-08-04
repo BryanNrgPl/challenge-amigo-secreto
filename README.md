@@ -19,7 +19,8 @@
   <li>Limpieza automática del input después de cada entrada</li>
 </ul>
 
-<h3><code>Contacto:</code> @gmail.com</h3>
+<h5><code>Contacto:</code> @gmail.com</h5>
+
 
 
 
